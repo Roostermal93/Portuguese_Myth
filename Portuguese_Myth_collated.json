@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "d6a4e911-6ac5-4858-b5a3-48aaa627c2d5",
+            "collectionId": "Portuguese",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Myth/d6a4e911-6ac5-4858-b5a3-48aaa627c2d5/d6a4e911-6ac5-4858-b5a3-48aaa627c2d5_pt_Female.mp4"
+        },
+        {
+            "id": "9c067bd0-6572-461c-9e05-419fb6f0e8db",
+            "collectionId": "Portuguese",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Myth/9c067bd0-6572-461c-9e05-419fb6f0e8db/9c067bd0-6572-461c-9e05-419fb6f0e8db_pt_Male.mp4"
+        },
+        {
+            "id": "ece5be43-6a62-45ab-8975-65b6a813511f",
+            "collectionId": "Portuguese",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Portuguese/Portuguese_Myth/ece5be43-6a62-45ab-8975-65b6a813511f/ece5be43-6a62-45ab-8975-65b6a813511f_pt_Male.mp4"
+        }
+    ]
+}
